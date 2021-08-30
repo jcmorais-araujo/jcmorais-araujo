@@ -4,6 +4,40 @@
 - 🌱 Estudando desenvolvimento web e Java
 - 📫 Contate-me no e-mail: jcmorais.araujo@gmail.com
 
+##
+<h3> :man: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas**.
+- 💼 &nbsp; Trabalhando como **Analista de Sistemas** no <a href="https://www.estadao.com.br/">Estadão</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Laravel, TypeScript e React**.
+##
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Front-End**
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=blue)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ##
+**Back-End**
+
+  ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=PHP&logoColor=CC6699)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=red)
+  ![R](https://img.shields.io/badge/R-333333?style=flat&logo=R&logoColor=blue)
+  ##
+**Banco de Dados**
+  
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql&logoColor=blue)
+##
+
+**Frameworks / Bibliotecas**
+  
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=white)
+##
+
+
  <div>
   <a href="https://github.com/jcmorais-araujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jcmorais-araujo&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
