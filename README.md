@@ -26,6 +26,7 @@
 **Back-End**
 
   ![PHP](https://img.shields.io/badge/PHP-333333?style=for-the-badge&logo=PHP&logoColor=CC6699)
+  ![Perl](https://img.shields.io/badge/Perl-333333?style=for-the-badge&logo=Perl&logoColor=white)
   ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=Java&logoColor=red)
   ![R](https://img.shields.io/badge/R-333333?style=for-the-badge&logo=R&logoColor=blue)
   ##
