@@ -10,7 +10,7 @@
 - 🔭 Hoje trabalho com Front-end e Back-end.
 - :man_student: &nbsp; Estudante de **Análise e Desenvolvimento de Sistemas**.
 - 💼 &nbsp; Trabalhando como **Analista de Sistemas**.
-- 🌱 &nbsp; Aprendendo mais sobre **Laravel, TypeScript e React**.
+- 🌱 &nbsp; Aprendendo mais sobre **JavaScript, TypeScript e React**.
 - 📫 Contate-me no e-mail: jcmorais.araujo@gmail.com
 ##
 <h3> :rocket: &nbsp;Minhas Skills </h3>
@@ -40,9 +40,10 @@
 **Frameworks / Bibliotecas**
   
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-  ![Laravel](https://img.shields.io/badge/Laravel-333333?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-  ![Angular](https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=DD0031)
-  ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB)
+   ![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=61DAFB)
+  <!-- ![Laravel](https://img.shields.io/badge/Laravel-333333?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+  ![Angular](https://img.shields.io/badge/Angular-333333?style=for-the-badge&logo=angular&logoColor=DD0031) -->
+ 
 ##
 
 **DevOps e Ferramentas de Desenvolvimento**
